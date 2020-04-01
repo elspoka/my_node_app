@@ -28,7 +28,7 @@ app.use(expressLayouts);
 app.set('view engine', 'ejs');
 
 // Set static folder
-//app.use(express.static(path.join(__dirname, 'public')));
+//app.use(express.static(path.join(__dirname, 'views')));
 
 // Express body parser
 app.use(express.urlencoded({ extended: true }));

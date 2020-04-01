@@ -2,15 +2,13 @@
 node mongodb passport ejs
 
 ### Usage
-
-
 $ npm install
-
 $ npm start
+
 # Or run with Nodemon
 $ npm run dev
 
-# Visit http://localhost:5000
+# Visit http://localhost:3000
 
 ### MongoDB
 
